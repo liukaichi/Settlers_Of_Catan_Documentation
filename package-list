@@ -20,3 +20,4 @@ client.utils
 server.proxy
 shared.definitions
 shared.locations
+shared.model
