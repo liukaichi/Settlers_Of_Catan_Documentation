@@ -17,5 +17,6 @@ client.resources
 client.roll
 client.turntracker
 client.utils
+server.proxy
 shared.definitions
 shared.locations
