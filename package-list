@@ -18,9 +18,9 @@ client.resources
 client.roll
 client.turntracker
 client.utils
-server.communication
-server.communication.moveCommands
 server.proxy
+shared.communication
+shared.communication.moveCommands
 shared.definitions
 shared.definitions.exceptions
 shared.locations
