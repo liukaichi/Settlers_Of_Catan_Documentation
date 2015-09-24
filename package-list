@@ -28,7 +28,9 @@ shared.definitions.exceptions
 shared.locations
 shared.model
 shared.model.bank
-shared.model.card
+shared.model.bank.card
+shared.model.bank.resource
+shared.model.bank.structure
 shared.model.map
 shared.model.map.structure
 shared.model.message
