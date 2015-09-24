@@ -6,6 +6,7 @@ client.data
 client.devcards
 client.discard
 client.domestic
+client.facade
 client.join
 client.login
 client.main
@@ -18,9 +19,10 @@ client.resources
 client.roll
 client.turntracker
 client.utils
-server.communication
-server.communication.moveCommands
+serialization
 server.proxy
+shared.communication
+shared.communication.moveCommands
 shared.definitions
 shared.definitions.exceptions
 shared.locations
