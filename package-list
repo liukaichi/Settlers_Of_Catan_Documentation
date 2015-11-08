@@ -23,7 +23,9 @@ client.utils
 server
 server.facade
 server.handler
+server.manager
 server.proxy
+server.util
 shared.communication
 shared.communication.moveCommands
 shared.definitions
