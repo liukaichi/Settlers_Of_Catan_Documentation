@@ -30,7 +30,6 @@ shared.communication
 shared.communication.moveCommands
 shared.definitions
 shared.definitions.exceptions
-shared.facade
 shared.locations
 shared.model
 shared.model.bank
